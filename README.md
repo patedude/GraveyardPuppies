@@ -1,6 +1,6 @@
 # Graveyard Puppies
 
-Graveyard Puppies on ensimmäinen Unityllä tekemäni 2D-peli. Peli on tehty osana AMK insinööriopintoja vuonna 2018
+Graveyard Puppies on ensimmäinen Unityllä tekemäni 2D-peli. Peli on tehty osana AMK insinööriopintoja vuonna 2018. Katso demo klikkaamalla alla olevaa kuvaa
 
 [![Watch the video](https://github.com/patedude/patedude.github.io/blob/main/Demo/gp1.png)](https://youtu.be/e9eZqai_mHc)
 
