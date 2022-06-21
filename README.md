@@ -4,8 +4,6 @@ Graveyard Puppies on ensimmäinen Unityllä tekemäni 2D-peli. Peli on tehty osa
 
 [![Alt text](https://img.youtube.com/vi/e9eZqai_mHc/0.jpg)](https://www.youtube.com/watch?v=e9eZqai_mHc)
 
-[![Watch the video](https://github.com/patedude/patedude.github.io/blob/main/Demo/gp1.png)](https://www.youtube.com/watch?v=e9eZqai_mHc)
-
 ### Assetit
 
 * ["UI Sounds" by StumpyStrust licensed CC0](https://opengameart.org/content/ui-sounds)
