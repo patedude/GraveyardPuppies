@@ -6,7 +6,7 @@ Graveyard Puppies on ensimmäinen kosketukseni peliohjelmointiin ja pelien tekoo
 
 ### Assetit
 
-* ["UI Sounds" by StumpyStrust licensed CC0](https://opengameart.org/content/ui-sounds)
+* [Äänitehosteet](https://opengameart.org/content/ui-sounds)
 * [Taustamusiikki](https://opengameart.org/content/dark-city)
 * [Grafiikat](https://www.gameart2d.com/freebies.html)
 * Fontit 
