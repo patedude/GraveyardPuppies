@@ -14,3 +14,10 @@ Katso demo klikkaamalla alla olevaa kuvaa
 * Fontit 
   * [Fontti1](https://www.1001fonts.com/shlop-font.html)
   * [Fontti1](https://www.1001fonts.com/chicle-font.html)
+
+#### Sovellukset
+* Unity
+* Visual Studio
+* OBS Studio
+* VLC Media player
+* Windowsin videoeditori
